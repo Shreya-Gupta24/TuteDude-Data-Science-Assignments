@@ -1,0 +1,1 @@
+This repositary contains all the assignments solutions of the TUTEDUDE DATA SCIENCE COURSE
